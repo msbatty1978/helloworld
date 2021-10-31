@@ -1,0 +1,4 @@
+/**
+ * 
+ */
+document.write("good world");
